@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyclope205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
+<img src="https://github-stats-extended.vercel.app/api?username=cyclope205&show_icons=true&hide_border=true&bg_color=00000000&border_color=00000000&title_color=18BCF2&icon_color=18BCF2&text_color=C9D1D9" height="165">
 <img src="https://streak-stats.demolab.com?user=cyclope205&theme=tokyonight&hide_border=true" height="165">
 
 </div>
