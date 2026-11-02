@@ -16,8 +16,8 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=cyclope205&show_icons=true&hide_border=true&bg_color=00000000&border_color=00000000&title_color=18BCF2&icon_color=18BCF2&text_color=C9D1D9" height="165">
-<img src="https://streak-stats.demolab.com?user=cyclope205&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-stats-extended.vercel.app/api?username=cyclope205&show_icons=true&hide_border=true&bg_color=ffffff&border_color=ffffff&title_color=18BCF2&icon_color=18BCF2&text_color=24292e&locale=fr" height="165">
+<img src="https://streak-stats.demolab.com?user=cyclope205&hide_border=true&background=ffffff&ring=18BCF2&fire=18BCF2&currStreakLabel=18BCF2&locale=fr" height="165">
 
 </div>
 
