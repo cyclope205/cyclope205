@@ -4,11 +4,20 @@
 
 <br><br>
 
-<img src="docs/profile/bff467df-2b50-471f-bbc2-14697ff75f7b-image.png" width="110" style="border-radius:50%;">
-
 # Salut, je suis Frédéric 👋 <sub>· cyclope205</sub>
 
 🇫🇷 Français | 🇬🇧 [English](#english)
+
+</div>
+
+---
+
+### 📊 Statistiques GitHub · GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cyclope205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
+<img src="https://streak-stats.demolab.com?user=cyclope205&theme=tokyonight&hide_border=true" height="165">
 
 </div>
 
