@@ -49,6 +49,8 @@ Je développe des intégrations et cartes personnalisées pour **Home Assistant*
 Si un de mes projets t'est utile, un petit coup de pouce fait toujours plaisir :
 
 <a href="https://github.com/sponsors/cyclope205"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white"></a>
+<a href="https://paypal.me/cyclope205"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
+<a href="https://buymeacoffee.com/cyclope205"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"></a>
 
 ---
 
@@ -71,4 +73,6 @@ I build custom integrations and cards for **Home Assistant**, designed to be eas
 If one of my projects has been useful to you, a little support always helps:
 
 <a href="https://github.com/sponsors/cyclope205"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white"></a>
+<a href="https://paypal.me/cyclope205"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
+<a href="https://buymeacoffee.com/cyclope205"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"></a>
 
